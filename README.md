@@ -4,7 +4,7 @@ Please teach me how to swipe, Android. :smile:
 
 ## Introduction
 
-This repository holds an implementation of a [tutorial on Android tabs] (https://developer.android.com/training/implementing-navigation/lateral.html).Effective Navigation is the name of the original guide.
+This repository holds an implementation of a [tutorial on Android tabs] (https://developer.android.com/training/implementing-navigation/lateral.html). Effective Navigation is the name of the original guide.
 
 ## Abilities
 
@@ -17,7 +17,7 @@ The app can do the following:
 
 The app is tutorial material. So there is:
 * No much content really aside from what is mentioned in the Abilities section. :grin:
-* The app does not follow [Material Design] (https://www.google.com/design/spec/material-design/introduction.html) [guidelines on tabs] (https://www.google.com/design/spec/components/tabs.html). :gasp:
+* The app does not follow [Material Design] (https://www.google.com/design/spec/material-design/introduction.html) [guidelines on tabs] (https://www.google.com/design/spec/components/tabs.html). :fearful:
 
 ## Possible Future Work
 
