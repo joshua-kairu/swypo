@@ -15,8 +15,8 @@ The app can do the following:
 
 ## Limitations
 
-The app is tutorial material. So there is:
-* No much content really aside from what is mentioned in the Abilities section. :grin:
+The app is tutorial material. So:
+* There is no much content really aside from what is mentioned in the Abilities section. :grin:
 * The app does not follow [Material Design] (https://www.google.com/design/spec/material-design/introduction.html) [guidelines on tabs] (https://www.google.com/design/spec/components/tabs.html). :fearful:
 
 ## Possible Future Work
